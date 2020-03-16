@@ -1,4 +1,4 @@
-public class DaysInMonth {
+public class DaysInMonthDemo {
 
 	public static void main(String[] args) {
 		Function<Integer, Integer> dim = new Function<Integer, Integer>(){

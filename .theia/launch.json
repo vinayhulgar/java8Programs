@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AccumulatorFactory",
+            "request": "launch",
+            "mainClass": "AccumulatorFactory",
+            "projectName": "java8Programs_b176fddc"
+        }
+    ]
+}

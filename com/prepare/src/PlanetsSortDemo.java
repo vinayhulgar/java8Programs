@@ -1,7 +1,7 @@
 
 import java.util.Comparator;
 
-public class Sort {
+public class PlanetsSortDemo {
 
 	public static void main(String[] args) {
 		String [] innerplanets = {"Mercury", "Venus", "Earth", "Mars"};

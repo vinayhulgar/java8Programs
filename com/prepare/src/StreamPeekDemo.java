@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class StreamDemo {
+public class StreamPeekDemo {
 	public static void main(String[] args) {
 		List<Integer> myList = Arrays.asList(1,2,3,12,5,6,7,13);
 		/*Integer result = null;

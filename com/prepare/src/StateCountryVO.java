@@ -1,17 +1,14 @@
-package com.streams.src;
-
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
+
 
 /*
   Program to group state by country
 
 */
-public class StreamDemoStateCountry {
+public class StateCountryVO {
 
 	public static void main(String[] args) {
 		// Map of StateCountry

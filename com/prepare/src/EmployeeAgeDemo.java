@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Employees {
+public class EmployeeAgeDemo {
 
 	static class Employee{
 		private String name;
