@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountOccurences",
+            "request": "launch",
+            "mainClass": "arrays.CountOccurences",
+            "projectName": "java8Programs_b176fddc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AccumulatorFactory",
             "request": "launch",
             "mainClass": "AccumulatorFactory",
